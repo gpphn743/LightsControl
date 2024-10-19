@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794817052140",
+    "project_id": "lights-control-vjp",
+    "storage_bucket": "lights-control-vjp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794817052140:android:9ba03dcfe8dae9771f54c9",
+        "android_client_info": {
+          "package_name": "com.example.lights_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKGfl8PqYMyz0-2LtDePlv9kLZygJzF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
